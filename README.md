@@ -9,7 +9,8 @@ the script log you in one time, use sth like corntab to do it repeatly.
 
 
 
-## 自動登交大宿網的.sh，如果你架一個server在宿舍或是不希望你在宿舍的電腦斷線的話可以用
+## 自動登交大宿網的.sh
+如果你架一個server在宿舍或是不希望你在宿舍的電腦斷線的話可以用
 
 第2跟3行把你的學號跟密碼打上去
 對，你的密碼是明文送出去的，偉大的優秀系統
